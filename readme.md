@@ -6,7 +6,7 @@
 🎯 TryHackMe: [@hyena](https://tryhackme.com/p/hyena)  
 📧 ssjutt2023@gmail.com
 
-
+---
 
 ### 🔐 About Me
 
@@ -19,7 +19,7 @@ My expertise spans:
 
 I'm also strengthening my programming foundation through Data Structures and Algorithms using Java, which helps me write better exploitation tools and understand system internals at a deeper level.
 
-
+---
 
 ### 💻 What I'm Working On
 
@@ -28,7 +28,7 @@ I'm also strengthening my programming foundation through Data Structures and Alg
 - 📚 Preparing for industry certifications (OSCP, eJPT)
 - 💡 Documenting vulnerabilities and creating detailed technical writeups
   
-
+---
 ### 🛠️ Technical Skills
 
 **Security & Penetration Testing:**
@@ -44,12 +44,12 @@ I'm also strengthening my programming foundation through Data Structures and Alg
 - Git & Version Control
 
 
-
+---
 ### 🎯 Current Focus
 
 Building a strong foundation in both **offensive security** and **secure software development** to contribute to creating robust, secure, and efficient systems. My goal is to bridge the gap between security research and practical application development.
 
-
+---
 
 ### 📫 Let's Connect
 
