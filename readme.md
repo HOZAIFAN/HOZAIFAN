@@ -1,9 +1,9 @@
 ## Hi there! 👋 I'm Muhammad Hozaifa Naeem
 
-**Cybersecurity Student | Penetration Tester | Software Developer**
+**Cybersecurity Student | Penetration Tester | CTF Player | Bug Hunter | HTB Player **
 
 📍 COMSATS University Islamabad, Attock Campus  
-🎯 TryHackMe: [@hyena](https://tryhackme.com/p/hyena)  
+🎯 TryHackMe: [@hyena11](https://tryhackme.com/p/hyena)  
 📧 ssjutt2023@gmail.com
 
 ---
