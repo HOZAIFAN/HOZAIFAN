@@ -36,7 +36,9 @@ avoid_at_all_costs:
   - Unpatched vulnerabilities
   - Monday mornings
 ```
+### Penetration Testing Arsenal
 
+## 🛠️ Toolbox & Tech Stack
 
 ### ![Recon](https://img.shields.io/badge/🌐%20Recon-004B87?style=for-the-badge&logo=nmap&logoColor=white)
 - **Nmap** – Network discovery & port scanning  
