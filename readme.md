@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/HTB-Enthusiast-purple?style=for-the-badge" alt="HTB Enthusiast" />
 </p>
 
----
+
 
 ## 📍 Who Am I?
 
@@ -20,9 +20,9 @@ Born and raised in the beautiful salt range of Pakistan, I'm that guy who breaks
 
 > "In a world full of 0's and 1's, be a 10."
 
----
 
-## 🎯 The Journey So Far
+
+## 🕵️ The Journey So Far
 
 ```yaml
 current_status: Cybersecurity Student @ COMSATS UNIVERSITY ISLAMABAD
@@ -37,7 +37,7 @@ avoid_at_all_costs:
   - Monday mornings
 ```
 
----
+
 
 ## 🛠️ Toolbox & Tech Stack
 
@@ -70,6 +70,7 @@ avoid_at_all_costs:
   <img src="https://img.shields.io/badge/PowerView-2F4F4F?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/SharpHound-9932CC?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
 ### Languages I Speak To Machines
 
 <p align="left">
@@ -93,7 +94,7 @@ avoid_at_all_costs:
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
----
+
 
 ## 🏆 CTF & Platform Stats
 
@@ -104,7 +105,7 @@ avoid_at_all_costs:
   <img src="https://img.shields.io/badge/Badges%20Earned-35-blue?style=for-the-badge" />
 </p>
 
----
+
 
 ## 🔥 What Keeps Me Up At Night
 
@@ -114,7 +115,7 @@ avoid_at_all_costs:
 - DSA in Java - Because even hackers need to understand data structures  
 - Zero Days - The ones I haven't found yet  
 
----
+
 
 ## 📝 Latest Adventures & Writeups
 
@@ -153,8 +154,8 @@ avoid_at_all_costs:
 - Build an automated reconnaissance tool  
 - Finally understand Kerberos delegation  
 
----
-## 🎯 My Next Missions
+
+## 🧨 My Next Missions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Buffer_Overflows-Assembly_Deep_Dive-red?style=for-the-badge&logo=assembly&logoColor=white" alt="Buffer Overflow Goal" />
@@ -166,6 +167,7 @@ avoid_at_all_costs:
 <p align="center">
   🖤 <em>"Hack the world, but leave a blueprint for the defenders."</em>
 </p>
+
 ## 📬 Let's Connect & Collide
 
 <p align="center">
@@ -182,7 +184,7 @@ avoid_at_all_costs:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
+
 
 ## 💭 Words I Try To Live By
 
@@ -201,11 +203,11 @@ But since we can't do that, I'll just keep finding vulnerabilities before the ba
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Passion%20%26%20Coffee-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Last%20Updated-March%202025-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Last%20Updated-28%20February%202026-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Maintained%3F-Yes%2C%20barely-green?style=flat-square" />
 </p>
 
----
+
 
 ## 🎮 When I'm Not Hacking
 
