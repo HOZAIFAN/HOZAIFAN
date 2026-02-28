@@ -38,26 +38,46 @@ avoid_at_all_costs:
 ```
 
 
-
-## 🛠️ Toolbox & Tech Stack
-
 ### ![Recon](https://img.shields.io/badge/🌐%20Recon-004B87?style=for-the-badge&logo=nmap&logoColor=white)
-Nmap • Masscan • Netdiscover • Kerbrute • Enum4linux  
+- **Nmap** – Network discovery & port scanning  
+- **Masscan** – High-speed large-scale port scanning  
+- **Netdiscover** – Local network ARP host discovery  
+- **Kerbrute** – Kerberos user enumeration & password spraying  
+- **Enum4linux** – SMB & Windows share enumeration  
+
 
 ### ![Web Testing](https://img.shields.io/badge/🕷️%20Web%20Testing-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white)
-Burp Suite • OWASP ZAP • FFUF • Gobuster • Dirsearch • SQLmap  
+- **Burp Suite** – Web proxy & manual vulnerability testing  
+- **OWASP ZAP** – Automated web vulnerability scanner  
+- **FFUF** – Directory & parameter fuzzing  
+- **Gobuster** – Directory/DNS brute-forcing  
+- **Dirsearch** – Hidden file & path discovery  
+- **SQLmap** – Automated SQL Injection exploitation  
+- **WPScan** – WordPress vulnerability scanner  
+- **Nikto** – Web server misconfiguration scanner  
+  
 
 ### ![Exploitation](https://img.shields.io/badge/💣%20Exploitation-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue)
-Metasploit • Impacket • CrackMapExec  
+- **Metasploit** – Exploit development & payload framework  
+- **Impacket** – SMB/Kerberos attacks & lateral movement  
+- **CrackMapExec** – Post-exploitation & credential validation  
 
 ### ![Password Attacks](https://img.shields.io/badge/🔐%20Password%20Attacks-CC2927?style=for-the-badge&logo=hashcat&logoColor=white)
-Hashcat • John The Ripper • Hydra 
+- **Hashcat** – GPU-based hash cracking  
+- **John The Ripper** – Offline password cracking  
+- **Hydra** – Online brute-force attacks (SSH, FTP, HTTP, etc.)  
 
 ### ![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
-BloodHound • SharpHound • PowerView • Rubeus • Mimikatz • Evil-WinRM • Responder  
+- **BloodHound** – AD privilege escalation path analysis  
+- **SharpHound** – AD data collection for BloodHound  
+- **PowerView** – AD enumeration via PowerShell  
+- **Rubeus** – Kerberos ticket attacks (Pass-the-Ticket, AS-REP roasting)  
+- **Mimikatz** – Credential dumping from memory  
+- **Evil-WinRM** – Remote Windows shell access  
+- **Responder** – LLMNR/NBT-NS poisoning & hash capture  
 
 ### ![Network](https://img.shields.io/badge/📡%20Network-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-Wireshark
+- **Wireshark** – Packet capture & deep traffic analysis  
 
 ### Languages I Speak To Machines
 
