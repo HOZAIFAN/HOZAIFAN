@@ -41,35 +41,23 @@ avoid_at_all_costs:
 
 ## 🛠️ Toolbox & Tech Stack
 
-### Penetration Testing Arsenal
+### ![Recon](https://img.shields.io/badge/🌐%20Recon-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+Nmap • Masscan • Netdiscover • Kerbrute • Enum4linux  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Masscan-CC0000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dirsearch-222222?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=hashcat&logoColor=red" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-660000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Impacket-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netdiscover-00BFFF?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/BloodHound-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrackMapExec-1E90FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rubeus-FF4500?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Evil--WinRM-4B0082?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kerbrute-000080?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enum4linux-556B2F?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerView-2F4F4F?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharpHound-9932CC?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+### ![Web Testing](https://img.shields.io/badge/🕷️%20Web%20Testing-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white)
+Burp Suite • OWASP ZAP • FFUF • Gobuster • Dirsearch • SQLmap  
+
+### ![Exploitation](https://img.shields.io/badge/💣%20Exploitation-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue)
+Metasploit • Impacket • CrackMapExec  
+
+### ![Password Attacks](https://img.shields.io/badge/🔐%20Password%20Attacks-CC2927?style=for-the-badge&logo=hashcat&logoColor=white)
+Hashcat • John The Ripper • Hydra 
+
+### ![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
+BloodHound • SharpHound • PowerView • Rubeus • Mimikatz • Evil-WinRM • Responder  
+
+### ![Network](https://img.shields.io/badge/📡%20Network-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+Wireshark
 
 ### Languages I Speak To Machines
 
