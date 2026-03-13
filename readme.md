@@ -159,7 +159,7 @@ avoid_at_all_costs:
 ## ⚡ Current Missions
 
 - Conquer the OSCP exam (pray for me 🙏)  
-- Hit Top 5% on TryHackMe  
+- Hit Top 1% on TryHackMe  
 - Write  detailed CTF writeups  
 - Build an automated reconnaissance tool  
 - Finally understand Kerberos delegation  
