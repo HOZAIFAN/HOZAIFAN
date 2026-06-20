@@ -144,16 +144,19 @@ avoid_at_all_costs:
   <img src="https://img.shields.io/badge/Buildables-Cybersecurity_Intern-blue?style=for-the-badge&logo=hackthebox" alt="Buildables Internship" />
   <img src="https://img.shields.io/badge/Blackbyt3-Web_Pentesting_Intern-purple?style=for-the-badge&logo=owasp" alt="Blackbyt3 Internship" />
   <img src="https://img.shields.io/badge/Cybester-Pen_Testing_Intern-red?style=for-the-badge&logo=kali-linux" alt="Cybester Internship" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/DevShieldX-Security_Research_Intern-green?style=for-the-badge&logo=shield" alt="DevShieldX Internship" />
 </p>
 
 <p align="center">
-  🗓 <strong>Buildables:</strong> Aug 2026 – Nov 2026 (3 Months)<br>
-  🗓 <strong>Blackbyt3:</strong> 20 Feb 2026 – 17 Jun 2026 (3 Months)<br>
-  🗓 <strong>Cybester:</strong> 2 Mar 2026 – 24 May 2026 (3 Months)<br>
+  🗓 <strong>Buildables:</strong> Aug 2026 – Nov 2026 (3 Months) &nbsp;|&nbsp;
+  <strong>Blackbyt3:</strong> 20 Feb 2026 – 17 Jun 2026 (3 Months) &nbsp;|&nbsp;
+  <strong>Cybester:</strong> 2 Mar 2026 – 24 May 2026 (3 Months)
+  <br><br>
   🗓 <strong>DevShieldX:</strong> 11 May 2026 – Current
 </p>
-
 <p align="center">
   🔹 Focus Areas: Web-App Pentesting, Penetration Testing, Vulnerability Assessment,Automation 
 </p>
