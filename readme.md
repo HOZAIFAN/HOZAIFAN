@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Hozaifa Naeem
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Junior+Pentester;Bug+Bounty+Hunter;CTF+Player;HTB+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&pause=700&color=FF2200&center=true&vCenter=true&width=850&lines=%F0%9F%92%80+Bug+Bounty+Hunter+%7C+Web+Exploitation+Master;%F0%9F%94%AA+HTB+Player+%7C+TryHackMe+Raider;%F0%9F%92%A5+Active+CTF+Player+%7C+Exploit+Developer;%F0%9F%91%B9+Junior+Pentester+%7C+Red+Team+Operator;%F0%9F%94%A5+Zero-Day+Hunter+%7C+Firewall+Bypasser;%F0%9F%91%BA+Living+in+Shell+%7C+Root+is+My+Home;%F0%9F%98%88+No+System+is+Safe+%7C+Hack+or+Die" alt="Typing SVG" />
 </p>
 
 <p align="center">
