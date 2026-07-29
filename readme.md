@@ -119,9 +119,10 @@ avoid_at_all_costs:
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Rank%20Top%201%25-ff69b4?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Rooms%20Completed-150+%2B-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Badges%20Earned-35-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTB-Top%205%20Season%2011-9fef00?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/CTF%20Domination-Till%20Top%203-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Boxes%20Owned-50%2B-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/0days%20Found-4-00FF00?style=for-the-badge" />
 </p>
 
 
