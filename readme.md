@@ -36,50 +36,58 @@ avoid_at_all_costs:
   - Unpatched vulnerabilities
   - Monday mornings
 ```
-### Penetration Testing Arsenal
+###  Penetration Testing Armor 
 
-## 🛠️ Toolbox & Tech Stack
+## 🛠️ Offensive Kit That I Work On
 
-### ![Recon](https://img.shields.io/badge/🌐%20Recon-004B87?style=for-the-badge&logo=nmap&logoColor=white)
-- **Nmap** – Network discovery & port scanning  
-- **Masscan** – High-speed large-scale port scanning  
-- **Netdiscover** – Local network ARP host discovery  
-- **Kerbrute** – Kerberos user enumeration & password spraying  
-- **Enum4linux** – SMB & Windows share enumeration  
-
+#### ![Recon](https://img.shields.io/badge/🌐%20Recon-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+- **Nmap** – Network discovery, port scanning & service enumeration
+- **Netdiscover** – Local network ARP host discovery
+- **Kerbrute** – Kerberos user enumeration & password spraying
+- **Enum4linux** – SMB & Windows share enumeration
+- **Masscan** – High-speed port scanning (large networks)
 
 ### ![Web Testing](https://img.shields.io/badge/🕷️%20Web%20Testing-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white)
-- **Burp Suite** – Web proxy & manual vulnerability testing  
-- **OWASP ZAP** – Automated web vulnerability scanner  
-- **FFUF** – Directory & parameter fuzzing  
-- **Gobuster** – Directory/DNS brute-forcing  
-- **Dirsearch** – Hidden file & path discovery  
-- **SQLmap** – Automated SQL Injection exploitation  
-- **WPScan** – WordPress vulnerability scanner  
-- **Nikto** – Web server misconfiguration scanner  
-  
+- **Burp Suite** – All-in-one web proxy for manual testing & exploitation
+- **FFUF** – Fast web fuzzer (directories, parameters, subdomains) with response filtering
+- **SQLmap** – Automated SQL Injection detection & exploitation
+- **WPScan** – WordPress-specific vulnerability scanner
+- **Feroxbuster** – Fast directory & file brute-forcing (replaces Gobuster/Dirsearch)
+- **Arjun** – HTTP parameter discovery for hidden parameters
+- **XSStrike** – Advanced XSS detection & exploitation
+- **Dalfox** – XSS vulnerability scanner with DOM-based detection
+- **Nuclei** – Fast vulnerability scanning using YAML-based templates
+- **Katana** – Fast web crawler for endpoint discovery
+- **HTTPx** – HTTP probing & web server fingerprinting (ProjectDiscovery)
+- **Optishot** – Screenshotting tool for multiple web services (reconnaissance)
 
 ### ![Exploitation](https://img.shields.io/badge/💣%20Exploitation-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue)
-- **Metasploit** – Exploit development & payload framework  
-- **Impacket** – SMB/Kerberos attacks & lateral movement  
-- **CrackMapExec** – Post-exploitation & credential validation  
+- **Metasploit** – Exploit development & payload framework
+- **Impacket** – Python toolkit for SMB/Kerberos/LDAP attacks & lateral movement
+- **NetExec (nxc)** – Modern post-exploitation & credential validation (replaces CrackMapExec)
+- **Certipy** – AD CS (Certificate Services) enumeration & exploitation (ESC1-ESC16)
 
 ### ![Password Attacks](https://img.shields.io/badge/🔐%20Password%20Attacks-CC2927?style=for-the-badge&logo=hashcat&logoColor=white)
-- **Hashcat** – GPU-based hash cracking  
-- **John The Ripper** – Offline password cracking  
-- **Hydra** – Online brute-force attacks (SSH, FTP, HTTP, etc.)  
+- **Hashcat** – GPU-based password hash cracking
+- **John The Ripper** – Offline password cracking
+- **Hydra** – Online brute-force attacks (SSH, FTP, HTTP, etc.)
 
 ### ![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-8A2BE2?style=for-the-badge&logo=neo4j&logoColor=white)
-- **BloodHound** – AD privilege escalation path analysis  
-- **SharpHound** – AD data collection for BloodHound  
-- **PowerView** – AD enumeration via PowerShell  
-- **Rubeus** – Kerberos ticket attacks (Pass-the-Ticket, AS-REP roasting)  
-- **Mimikatz** – Credential dumping from memory  
-- **Evil-WinRM** – Remote Windows shell access  
-- **Responder** – LLMNR/NBT-NS poisoning & hash capture  
+- **BloodHound** – AD privilege escalation path analysis
+- **SharpHound** – AD data collection for BloodHound
+- **PowerView** – AD enumeration via PowerShell
+- **Rubeus** – Kerberos ticket attacks (Pass-the-Ticket, AS-REP roasting)
+- **Mimikatz** – Credential dumping from memory
+- **Evil-WinRM** – Remote Windows shell access
+- **Responder** – LLMNR/NBT-NS poisoning & hash capture
+- **Ligolo-ng** – Advanced tunneling & pivoting for internal network access
+- **Chisel** – SOCKS5 tunneling for network pivoting
+- **Coercer** – Automate NTLM coercion attacks (MS-RPC, MS-EFSRPC)
 
 ### ![Network](https://img.shields.io/badge/📡%20Network-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-- **Wireshark** – Packet capture & deep traffic analysis  
+- **Wireshark** – Packet capture & deep traffic analysis
+- **tcpdump** – Command-line packet capture
+- **Scapy** – Packet crafting & manipulation
 
 ### Languages I Speak To Machines
 
@@ -151,11 +159,11 @@ avoid_at_all_costs:
 </p>
 
 <p align="center">
-  🗓 <strong>Buildables:</strong> Aug 2026 – Nov 2026 (3 Months) &nbsp;|&nbsp;
+  🗓 <strong>Buildables:</strong> Aug 2025 – Nov 2025 (3 Months) &nbsp;|&nbsp;
   <strong>Blackbyt3:</strong> 20 Feb 2026 – 17 Jun 2026 (3 Months) &nbsp;|&nbsp;
   <strong>Cybester:</strong> 2 Mar 2026 – 24 May 2026 (3 Months)
   <br><br>
-  🗓 <strong>DevShieldX:</strong> 11 May 2026 – Current
+  🗓 <strong>DevShieldX:</strong> 11 May 2026 – 1 July 2026
 </p>
 <p align="center">
   🔹 Focus Areas: Web-App Pentesting, Penetration Testing, Vulnerability Assessment,Automation 
@@ -164,10 +172,11 @@ avoid_at_all_costs:
 ## ⚡ Current Missions
 
 - Conquer the OSCP exam (pray for me 🙏)  
-- Hit Top 1% on TryHackMe  
+- Hit Top 10 On HackTheBox in Seasonal Race 
 - Write  detailed CTF writeups  
-- Build an automated reconnaissance tool  
-- Finally understand Kerberos delegation  
+- Build  automated Company Level Projects of Offensive Security 
+- Grip Strong Active Directory,Window/Linux Privilage Escalation
+- Hunt my First Bug on HackerOne $$$
 
 
 ## 🧨 My Next Missions
