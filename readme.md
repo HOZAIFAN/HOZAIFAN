@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-blue?style=for-the-badge" alt="Cybersecurity Enthusiast" />
   <img src="https://img.shields.io/badge/Junior-Pentester-green?style=for-the-badge" alt="Junior Pentester" />
-  <img src="https://img.shields.io/badge/Bug+Bounty-Hunter-red?style=for-the-badge" alt="BugBounty Hunter" />
+  <img src="https://img.shields.io/badge/BugBounty-Hunter-red?style=for-the-badge" alt="BugBounty Hunter" />
   <img src="https://img.shields.io/badge/CTF-Player-orange?style=for-the-badge" alt="CTF Player" />
   <img src="https://img.shields.io/badge/HTB-Enthusiast-purple?style=for-the-badge" alt="HTB Enthusiast" />
 </p>
